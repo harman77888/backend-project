@@ -40,10 +40,10 @@
 //     console.log("Running port at 9000")
 // })
 
-const express=require("express")
-const app =express()
-const uploads=require("./18nov")
-app.use("/up",uploads)
-app.listen(3000,()=>{
-    console.log("Running at 6000")
-})
+// const express=require("express")
+// const app =express()
+// const uploads=require("./18nov")
+// app.use("/up",uploads)
+// app.listen(3000,()=>{
+//     console.log("Running at 6000")
+// })
